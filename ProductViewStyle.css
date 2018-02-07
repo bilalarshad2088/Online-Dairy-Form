@@ -1,0 +1,93 @@
+#loginButton{
+  
+color:white;
+background-color: #e60000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+font-size: 20px;
+letter-spacing: 4px;
+}
+#loginButton:hover{
+  
+color:white;
+background-color:  #800000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+font-size: 20px;
+letter-spacing: 4px;
+cursor: pointer;
+}
+
+input{
+height: 50px;
+width: 80%;
+border-radius: 3px;
+ letter-spacing: 4px;
+}
+
+#erorr{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+  font-size: 30px
+  color: black;
+  margin-left: 20%;
+}
+
+#table1 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin-top: -32%;
+    margin-right: -5%;
+    margin-left: 20%;
+}
+
+#table1 td, #table1 th {
+    border: 0px solid #ddd;
+    padding: 5px;
+}
+
+#table1 tr:nth-child(even){background-color: #f2f2f2;}
+
+#table1 tr:hover {background-color: #ddd;}
+
+#table1 th {
+    padding-top: 12px;
+    padding-bottom: 8px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+
+#newA{
+    
+  background-color:#800000;
+  text-decoration: none;
+  color: white;
+  border-radius: 2px;
+
+}
+#newA:hover{
+    
+  background-color:#e60000;
+  text-decoration: none;
+  color: white;
+border-radius: 2px;
+}
+
+#h4{
+    
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #800000;
+    font-size: 15px;
+    margin-top: 0%;
+
+}
+#h5{
+    
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #800000;
+    font-size: 21px;
+    margin-top: 0%;
+
+}
+

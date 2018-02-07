@@ -1,0 +1,141 @@
+body{
+	
+background-color:whitle;
+background-repeat:no-repeat;
+
+
+}
+
+form{
+	margin-top: 10%;
+
+
+
+}
+
+
+section{
+margin-top: -1%;	
+height: 130px;
+background:#800000;
+margin-right: -2%;
+margin-left: -1%; 
+border-radius:3px;
+
+}
+
+
+h1{
+	
+margin-top: 0%;
+margin-left: 1%;
+font-size: 40px;
+color: white;
+font-family:Verdana, Geneva, sans-serif;
+font-style: bold;
+letter-spacing: 3px;
+word-spacing: 5px;
+}
+
+h3{
+	
+margin-top: 0%;
+margin-left: 1%;
+font-size: 30px;
+color: white;
+font-family:Verdana, Geneva, sans-serif;
+font-style: bold;
+letter-spacing: 3px;
+word-spacing: 5px;
+}
+
+
+#p1{
+	margin-left: 1%;
+margin-top: 0%;
+	font-size: 20px;
+color: white;
+font-family:Verdana, Geneva, sans-serif;
+font-style: italic;
+}
+
+p{
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 25px;
+margin-top: -2%;
+color: white;
+letter-spacing: 4px;
+ 
+}
+input{
+height: 50px;
+width: 80%;
+border-radius: 3px;
+ letter-spacing: 4px;
+}
+::-webkit-input-placeholder { 
+  font-size: 20px;
+  letter-spacing: 4px;
+  
+  
+}
+#loginButton{
+	
+color:white;
+background-color: #e60000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 20px;
+letter-spacing: 4px;
+}
+#loginButton:hover{
+	
+color:white;
+background-color:  #800000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 20px;
+letter-spacing: 4px;
+cursor: pointer;
+}
+
+div{
+	
+	background-color:#800000;
+	margin-left: 30%;
+	margin-right: 30%;
+	border-radius: 5px;
+	padding: 30px;
+	margin-top: 5%;
+	
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #800000;
+    margin-top: 3px;
+    margin-right: -1%;
+    height: 50px;
+     margin-left: -1%; 
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+   
+   
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 100px;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+
+li a:hover {
+    background-color: #e60000;
+}

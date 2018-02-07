@@ -1,0 +1,50 @@
+p{
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 25px;
+margin-top: -2%;
+color: white;
+letter-spacing: 4px;
+ }
+
+ #font{
+ font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;	
+font-size:30px;
+color:white;
+
+
+ }
+
+ div{
+	
+	background-color:#800000;
+	margin-left: 30%;
+	margin-right:15%;
+	border-radius: 5px;
+	padding: 30px;
+	margin-top: -31%;
+	
+}
+input{
+height: 50px;
+width: 30%;
+border-radius: 3px;
+ letter-spacing: 4px;
+}
+
+#updateButton{
+	
+color:white;
+background-color: #e60000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 20px;
+letter-spacing: 4px;
+}
+#updateButton:hover{
+	
+color:white;
+background-color:  #800000;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif	;
+font-size: 20px;
+letter-spacing: 4px;
+cursor: pointer;
+}
